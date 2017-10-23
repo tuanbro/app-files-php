@@ -903,10 +903,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.5111517984168206,
+          "yaw": -0.5111517984168206,
           "pitch": 0.127578020756431,
           "rotation": 0,
-          "target": "36-normal-warehouse-r5-end"
+          "target": "24-normal-warehouse-free-space-6"
         },
         {
           "yaw": 0.8225233347990635,
@@ -2478,7 +2478,7 @@ var APP_DATA = {
           "yaw": 0.567983806101207,
           "pitch": 1.00009565994316816,
           "rotation": 0,
-          "target": "0-main-gate"
+          "target": "50-main-gate-before-cfs-warehouse"
       },
 	  {
           "yaw": 4.257983806101207,
